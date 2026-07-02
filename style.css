@@ -1,3 +1,8 @@
 body{
-  background-color: pink;
+  background-color: fuchsia;
+}
+.search_form{
+  background-color: purple;
+  color: greenyellow;
+  padding: 1rem;
 }
